@@ -12,7 +12,7 @@ Welcome to the Github repository of the BridgeUP STEM 2019-20 group-name!
 | Date | Topic | Activities | Comments |
 | :----: | :----: |------------|----------|
 |**Unit 1**|*Introduction to oceans and climate*|
-|October 10, 2019 (Thursday)| Welcome! |1. What is paleoclimate? </br> 2. Glaciers in Central Park | |
+|October 10, 2019 (Thursday)| Welcome! |1. What do we know about oceans and climate? </br> 2. Glaciers in Central Park | |
 
 
 
