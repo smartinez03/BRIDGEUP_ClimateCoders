@@ -1,4 +1,4 @@
-# BRIDGEUP-group_name
+# BridgeUP STEM group-name
 Welcome to the Github repository of the BridgeUP STEM 2019-20 group-name!
 
 ![Spongebob and coral](spongebob.gif)
@@ -10,8 +10,11 @@ Welcome to the Github repository of the BridgeUP STEM 2019-20 group-name!
 ## Schedule
 
 | Date | Topic | Activities | Comments |
-|------|-------|------------|----------|
-|**Unit 1:**| Introduction to oceans and climate |||
+| :----: | :----: |------------|----------|
+|**Unit 1:** Introduction to oceans and climate|
+
+
+
 
 
 
