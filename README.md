@@ -1,7 +1,7 @@
 # BridgeUP STEM group-name
 Welcome to the Github repository of the BridgeUP STEM 2019-20 group-name!
 
-![Spongebob and coral](spongebob.gif)
+![Spongebob and coral](misc/spongebob.gif)
 
 ## Quick links
 :tropical_fish: Exit survey </br>
