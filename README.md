@@ -1,6 +1,21 @@
 # BRIDGEUP-group_name
-This is the Bridge UP STEM 2019 - 2020 group_name repository containing all our lesson materials and code. 
+Welcome to the Github repository of the BridgeUP STEM 2019-20 group-name!
 
-![](spongebob.gif)
+![Spongebob and coral](https://tenor.com/view/coral-reef-ocean-plant-spongebob-gif-5453276/tenor.gif)
+
+## Quick links
+1. Exit survey (Remember to fill this out at the end of every class)
+1. Cheat sheets
 
 ## Schedule
+
+| Date | Topic | Activities | Comments |
+|------|-------|------------|----------|
+|**Unit 1:**| Introduction to oceans and climate |||
+
+
+
+
+
+
+
