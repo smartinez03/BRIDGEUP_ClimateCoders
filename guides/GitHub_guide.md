@@ -1,3 +1,3 @@
-## Github guide
+## Guide to setting up Github!
 
 
