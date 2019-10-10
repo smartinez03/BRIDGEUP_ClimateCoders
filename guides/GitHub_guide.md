@@ -8,9 +8,9 @@
 
 ![fork a repo](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/photos/fork.png)
 
-3. Open up Terminal. Decide where you want to store your GitHub repository on your computer, and navigate there. 
-    * To change folders, type **cd path/folder_name**
-    * Other tips:
-      * **ls** shows all the files in your folder/directory.
-      * **cd ..** moves you up one folder
-      * **cd** (without any names after it) takes you to your home directory
+3. Open up Terminal. Decide where you want to store your GitHub repository on your computer, and navigate there. Useful terminal commands:
+    * **cd path/folder_name** navigates to a folder
+    * 
+   * **ls** shows all the files in your folder/directory.
+   * **cd ..** moves you up one folder
+   * **cd** (without any names after it) takes you to your home directory
