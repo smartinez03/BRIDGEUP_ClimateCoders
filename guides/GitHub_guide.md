@@ -59,3 +59,5 @@ Check out the terminal cheat sheet for a quick refresher on terminal commands:
     * Type **git commit -m** \"\<Your message here\>\". Change \[Your message here\] to explain why you&#39;re making the change – i.e. &quot;Adding in my name&quot; etc.
     
 - [ ] 12. Next, you&#39;ll upload this change to your online repository. Type **git push origin master**. This tells git to send the changes you made on the **master** branch of you repository to the forked repository on GitHub.
+
+Congratulations! You just successfully pulled a file from GitHub, and pushed your changes back! Now, you are well on your way to becoming a GitHub master. 
