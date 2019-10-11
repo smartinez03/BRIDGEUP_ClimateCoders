@@ -1,10 +1,10 @@
 ## Daily GitHub steps
 
-[Daily steps](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_daily.pdf)
+[Link to steps](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_daily.pdf)
 
 Reminders:
 * Check out our group cheat sheet for a quick refresher on GitHub commands
-* If you forget to **push** your changes, remember to do so before you **pull** any updates from my repository
+* If you forget to **push** any changes from an earlier class, remember to do so before you **pull** any updates from my repository.
 
 
 ## Setting up Github!
