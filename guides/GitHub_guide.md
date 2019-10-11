@@ -60,4 +60,4 @@ Check out the terminal cheat sheet for a quick refresher on terminal commands:
     
 - [ ] 12. Next, you&#39;ll upload this change to your online repository. Type **git push origin master**. This tells git to send the changes you made on the **master** branch of your repository to the forked repository on GitHub.
 
-COngratulations! You just successfully pulled a file from an online repository, and pushed your changes back all using Terminal!
+Congratulations! You just successfully pulled a file from an online repository, and pushed your changes back all using Terminal! GitHub master in the making.
