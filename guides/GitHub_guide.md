@@ -1,6 +1,6 @@
-## Daily GitHub steps
+## GitHub steps
 
-![Link to steps](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_dailySteps.png)
+![Steps](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_dailySteps.png)
 
 Reminders:
 * Check out our group cheat sheet for a quick refresher on GitHub commands
