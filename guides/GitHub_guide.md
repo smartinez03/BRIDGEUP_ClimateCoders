@@ -3,7 +3,7 @@
 ![Steps](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_dailySteps.png)
 
 Reminders:
-* Check out our group cheat sheet for a quick refresher on GitHub commands
+* Check out our group cheat sheet for a quick refresher on **git** commands
 * If you forget to **push** any changes from an earlier class, remember to do so before you **pull** any updates from my repository.
 
 
