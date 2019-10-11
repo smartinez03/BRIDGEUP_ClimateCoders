@@ -1,5 +1,11 @@
 ## Daily GitHub steps
 
+![Daily steps](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_daily.pdf)
+
+Reminders:
+* Check out our group cheat sheet for a quick refresher on GitHub commands
+
+
 ## Setting up Github!
 
 *This is adapted from [Katy Abbott's guide](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/git-instructions.md)*
@@ -51,8 +57,4 @@ Check out the terminal cheat sheet for a quick refresher on terminal commands:
     * Type **git add about_me.txt**. This lets git know you're ready to make a change. If you make a lot of changes, you could also do **git add .** so all the changes are added.
     * Type **git commit -m** \"\<Your message here\>\". Change \[Your message here\] to explain why you&#39;re making the change – i.e. &quot;Adding in my name&quot; etc.
     
-- [ ] 12. Next, you&#39;ll upload this change to your online repository. Type **git push origin master**. This tells git to send the changes you made on your **master** branch to the repository that your forked repository on GitHub.
-    
-    
-  
-  
+- [ ] 12. Next, you&#39;ll upload this change to your online repository. Type **git push origin master**. This tells git to send the changes you made on the **master** branch of you repository to the forked repository on GitHub.
