@@ -39,7 +39,7 @@ Check out the terminal cheat sheet for a quick refresher on terminal commands:
   
   - [ ] 5. Now, we are going connect your local directory to GitHub so your computer knows where to save any changes you've made online. This is a quick diagram of what these different connections look like. Ignore the **git** commands for now.
   
-  ![GitHub connections](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_daily.pdf)
+  ![git connections](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_dailySteps.png)
   
   - [ ] 6. Check that your origin is your forked repository by typing in **git remote -v** (**-v** or **-verbose** is simply asking **git** to list out the URL in addition to the names of the remote connections. 
   
