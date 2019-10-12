@@ -2,7 +2,8 @@
 
 ![Steps](https://github.com/AKannad/BRIDGEUP_ClimateCoders/blob/master/guides/GitHub_dailySteps.png)
 
-Reminders:
+Tips:
+* Use **git status** before you **push** to check if all your commits were recognized by **git**
 * Check out our group cheat sheet for a quick refresher on **git** commands
 * If you forget to **push** any changes from an earlier class, remember to do so before you **pull** any updates from my repository.
 
@@ -57,8 +58,8 @@ Check out the terminal cheat sheet for a quick refresher on terminal commands:
 - [ ] 11. When you're ready, 
     * Type **git add about_me.txt**. This lets git know you're ready to make a change. If you make a lot of changes, you could also do **git add .** so all the changes are added.
     * Type **git commit -m** \"\<Your message here\>\". Change \[Your message here\] to explain why you&#39;re making the change – i.e. &quot;Adding in my name&quot; etc.
-    * To make sure the changes have been made, type in **git status**
+    * To make sure the changes have been made, type in **git status**.
     
 - [ ] 12. Next, you&#39;ll upload this change to your online repository. Type **git push origin master**. This tells git to send the changes you made on the **master** branch of your repository to the forked repository on GitHub.
 
-Congratulations! You just successfully pulled a file from an online repository, and pushed your changes back all using Terminal! GitHub master in the making.
+Congratulations! You just successfully pulled a file from an online repository, and pushed your changes back all using Terminal! You are a GitHub master in the making :sunglasses:
