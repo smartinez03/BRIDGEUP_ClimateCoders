@@ -17,5 +17,5 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |**Unit 1**|*Introduction to oceans and climate*|
 |October 10, 2019 (Thursday)| Welcome! |1. Icebreaker </br> 2. What do we know about oceans and climate? </br> 3. GitHub practice </br> 4. Exit ticket| |
 |October 15, 2019 (Tuesday)| Setting up |1. Community guidelines </br> 2. [Github practice (continued)](./guides) </br> 3. [Introduction to time formats](./191015) </br> 4. Exit ticket||
-|October 17, 2019 (Thursday)| Sea surface temperature | 1. (Community guidelines)[https://docs.google.com/document/d/168vNyEpoMV_wvTNALC6-66nGEJ-Yu1TO3Q_SWoqM0hc/edit?usp=sharing] </br> 2. [Github practice (continued)](./guides) </br> 3. [Introduction to time formats](./191015) </br> 4. Exit ticket| |
-|October 22, 2019 (Tuesday)| Contour maps | | |
+|October 17, 2019 (Thursday)| Sea surface temperature | | |
+|October 22, 2019 (Tuesday)| Numpy arrays | | |
