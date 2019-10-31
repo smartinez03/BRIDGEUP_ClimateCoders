@@ -22,3 +22,8 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |October 24, 2019 (Thursday)| Meet Nathalie! | [Questions for Nathlie](https://docs.google.com/document/d/1dPK4-zcwAgWIJMA3fx1Phpnth-oQTlRpn3eyBRO_SeQ/edit?usp=sharing)| |
 |October 29, 2019 (Tuesday)| Functions review | 1. Oceans trivia </br> 2. [Functions review](./191029_functions) </br> 3. Temperature in the deep ocean </br> 4. Exit ticket| |
 |October 31, 2019 (Thursday)| Introduction to our data files | 1. Ocean trivia </br> 2. [Introduction to netcdf](./191031_intro2netcdf) </br> 3. Ocean zones </br> 4. Exit ticket| |
+|November 5, 2019 (Tuesday)| Election day| | |
+|November 7, 2019 (Thursday)| Guest Speaker | | |
+|November 28, 2019 (Thursday)| Thanksgiving | | |
+|December 3, 2019 (Tuesday)| Guest Speaker | | |
+|December 24, 2019 - January 2, 2019| Winter Recess | | |
