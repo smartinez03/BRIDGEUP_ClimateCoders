@@ -26,7 +26,7 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |November 7, 2019 (Thursday)| Guest Speaker | | |
 |November 11, 2019 (Tuesday)| Introduction to our data files (cont)|1. Density experiment </br> 2. [Introduction to netcdf](./191031_intro2netcdf) </br> 3. Exit ticket | |
 |November 14, 2019 (Thursday)| Introduction to our data files (cont) |1. [Introduction to netcdf](./191031_intro2netcdf) </br> 2. Ocean currents </br> 3. Exit ticket | Cheers and Challenges: Sabrina|
-|November 19, 2019 (Tuesday)| Ocean currents and introduction to numpy arrays |1. Ocean currents </br> 2. [Introduction to netcdf](./191119_Intro2numpyarrays_name) </br> 3. Exit ticket ||
+|November 19, 2019 (Tuesday)| Ocean currents and introduction to numpy arrays |1. Ocean currents </br> 2. [Introduction to numpy arrays](./191119_Intro2numpyarrays) </br> 3. Exit ticket ||
 |November 21, 2019 (Thursday)| | | Cheers and Challenges: Sherlyn|
 |November 26, 2019 (Tuesday)| | |
 |November 28, 2019 (Thursday)| Thanksgiving :corn: | | |
