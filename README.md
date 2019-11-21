@@ -33,7 +33,7 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |December 3, 2019 (Tuesday)| Guest Speaker | | | |
 |December 5, 2019 (Thursday)| Louise visiting! | | | Cheers and Challenges: Darcie |
 |December 10, 2019 (Tuesday)| Meet Ryan! | | | |
-|December 12, 2019 (Thursday)| | | | |
+|December 12, 2019 (Thursday)| | | | Cheers and Challenges: Mia |
 |December 17, 2019 (Tuesday)| | | | |
-|December 19, 2019 (Thursday)| | | | |
+|December 19, 2019 (Thursday)| | | | Cheers and Challenges: Natalie |
 |December 24, 2019 - January 2, 2019| Winter Recess | | | |
