@@ -31,6 +31,7 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |November 26, 2019 (Tuesday)| Unit 1 wrap-up| | |
 |November 28, 2019 (Thursday)| Thanksgiving :corn: | | | |
 |December 3, 2019 (Tuesday)| Guest Speaker | | | |
+|**Unit 2**|*Climate effects in South-East Asia*|
 |December 5, 2019 (Thursday)| Louise visiting! | | Cheers and Challenges: Darcie |
 |December 10, 2019 (Tuesday)| Meet Ryan! | | | |
 |December 12, 2019 (Thursday)| | | Cheers and Challenges: Mia |
