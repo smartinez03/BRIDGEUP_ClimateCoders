@@ -42,5 +42,7 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |January 7, 2020 (Tuesday)| Guest speaker| | |
 |January 9, 2020 (Thursday)| Guest speaker| | |
 |January 14, 2020 (Tuesday)| El Nino and La Nina|1. El Nino Southern Oscillation </br> 2. [Plot annual SST](./scripts) </br> 3. Exit ticket | |
-|January 16, 2020 (Thursday)| Creating our first module| | |
+|January 21, 2020 (Tuesday)| Presentation planning| | |
+|January 23, 2020 (Thursday)| Presentation planning| | |
+|January 30, 2020 (Tuesday)| Mid-term presentations| | |
 
