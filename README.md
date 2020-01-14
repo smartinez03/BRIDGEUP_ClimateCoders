@@ -41,6 +41,6 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |December 24, 2019 - January 2, 2019| :snowflake: Winter Recess :snowflake:| | | |
 |January 7, 2020 (Tuesday)| Guest speaker| | |
 |January 9, 2020 (Thursday)| Guest speaker| | |
-|January 14, 2020 (Tuesday)| El Nino and La Nina|1. [Contour plotting continued](./191217_contourplotting) </br> 2. [Introduction to Sublime](./191217_contourplotting) </br> 3. Debugging script </br> 4. Exit ticket | |
-|January 16, 2020 (Thursday)| Creating our first module|1. [Contour plotting continued](./191217_contourplotting) </br> 2. [Introduction to Sublime](./191217_contourplotting) </br> 3. Debugging script </br> 4. Exit ticket | |
+|January 14, 2020 (Tuesday)| El Nino and La Nina|1. El Nino Southern Oscillation </br> 2. [Plot annual SST](./scripts) </br> 3. Exit ticket | |
+|January 16, 2020 (Thursday)| Creating our first module| | |
 
