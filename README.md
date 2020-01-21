@@ -47,4 +47,11 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |January 23, 2020 (Thursday)| Presentation planning| | Cheers and Challenges: Natalie |
 |January 28, 2020 (Tuesday)| Guest speaker| | |
 |January 30, 2020 (Thursday)| Mid-term presentations| | |
+|February 4, 2020 (Tuesday)| | | |
+|February 6, 2020 (Thursday)| | | |
+|February 11, 2020 (Tuesday)| | | |
+|February 13, 2020 (Thursday)| | | |
+|February 17, 2020 - February 21, 2020| :snowflake: Midwinter Recess :snowflake:| | | |
+|February 25, 2020 (Tuesday)| Guest speaker| | |
+|February 27, 2020 (Thursday)| | | |
 
