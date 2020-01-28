@@ -9,7 +9,7 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 :tropical_fish: [Our cheat sheet](https://docs.google.com/document/d/1Vjw3jyR2vp0x1ndLKoTWM8qsxX08SlDU8QEA6yPJHCw/edit?usp=sharing) </br>
 :tropical_fish: [Our research notebook](https://docs.google.com/document/d/1KRSZ3onChbzWEPLJNWV2pxmtsUpAtw6nMLl2e3bgJoU/edit) </br>
 :tropical_fish: [Our community guidelines](https://docs.google.com/document/d/168vNyEpoMV_wvTNALC6-66nGEJ-Yu1TO3Q_SWoqM0hc/edit?usp=sharing)
-
+:tropical_fish: [Opportunities](https://docs.google.com/document/d/1I8-32l1gcVd2iqx1rejib59a3EndpApobF61S8S-6-I/edit?usp=sharing)
 
 ## Schedule
 
