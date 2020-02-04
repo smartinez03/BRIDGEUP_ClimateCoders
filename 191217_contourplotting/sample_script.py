@@ -1,8 +1,10 @@
 #Import packages
 
 #Create functions
-def hello(name):
-	print('Hello',name)
+	def hello(x,y):
+	fun= x/y
+	return fun
+
 
 #Main script
 def main():
