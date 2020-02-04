@@ -1,6 +1,7 @@
 #Import packages
 
 #Create functions
+<<<<<<< HEAD
 
 #Main script
 def main():
@@ -24,5 +25,17 @@ def main():
 	temp_anom = temp - temp_mean
 
 #Execute main script
+=======
+def hello(name):
+	print('Hello',name)
+
+#Main script
+def main():
+	
+	name = 'Beyonce'
+	hello(name)
+
+#Run script
+>>>>>>> a57bc8fe50f771c6a1333be74be4eb04c12f155d
 if __name__ == '__main__':
 	main()
