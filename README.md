@@ -53,5 +53,5 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |February 13, 2020 (Thursday)|Tour of South- East Asia Halls | | |
 |February 17, 2020 - February 21, 2020| :snowflake: Midwinter Recess :snowflake:| | | |
 |February 25, 2020 (Tuesday)| Guest speaker| | |
-|February 27, 2020 (Thursday)|Monsoons|1. Monsoons in Asia </br> 2. Pandas review </br> 3. Exit ticket |Cheers and challenges: Ling|
+|February 27, 2020 (Thursday)|Monsoons|1. Monsoons in Asia </br> 2.[Pandas review](./200227_pandas_review) </br> 3. Exit ticket |Cheers and challenges: Ling|
 
