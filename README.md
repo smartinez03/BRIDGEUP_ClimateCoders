@@ -50,8 +50,8 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |February 4, 2020 (Tuesday)| Salinity|1. Why is the ocean salty? </br> 2. Plot annual SST </br> 3. Exit ticket| |
 |February 6, 2020 (Thursday)|Complete El Nino project |1. Plot annual SST </br> 2. Hydrothermal vents (+ paleoclimate) </br> 3. Exit ticket | Cheers and challenges: Natalie|
 |February 11, 2020 (Tuesday)| Meet Ross!|1. Isotope analysis of corals </br> 2. Exit ticket | |
-|February 13, 2020 (Thursday)|Tour of South- East Asia Halls | | Cheers and challenges: Ling|
+|February 13, 2020 (Thursday)|Tour of South- East Asia Halls | | |
 |February 17, 2020 - February 21, 2020| :snowflake: Midwinter Recess :snowflake:| | | |
 |February 25, 2020 (Tuesday)| Guest speaker| | |
-|February 27, 2020 (Thursday)| | |Cheers and challenges: Natalie|
+|February 27, 2020 (Thursday)|Monsoons|1. Monsoons in Asia </br> 2. Pandas review </br> 3. Exit ticket |Cheers and challenges: Ling|
 
