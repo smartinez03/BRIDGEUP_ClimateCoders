@@ -49,6 +49,7 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |January 30, 2020 (Thursday)| Mid-term presentations| | |
 |February 4, 2020 (Tuesday)| Salinity|1. Why is the ocean salty? </br> 2. Plot annual SST </br> 3. Exit ticket| |
 |February 6, 2020 (Thursday)|Complete El Nino project |1. Plot annual SST </br> 2. Hydrothermal vents (+ paleoclimate) </br> 3. Exit ticket | Cheers and challenges: Natalie|
+|**Unit 3**|*Reconstructing coral core data*|
 |February 11, 2020 (Tuesday)| Meet Ross!|1. Isotope analysis of corals </br> 2. Exit ticket | |
 |February 13, 2020 (Thursday)|Tour of South- East Asia Halls | |[Climate and the demise of Angkor](https://www.ldeo.columbia.edu/news-events/did-climate-influence-angkors-collapse)|
 |February 17, 2020 - February 21, 2020| :snowflake: Midwinter Recess :snowflake:| | | |
@@ -56,4 +57,10 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |February 27, 2020 (Thursday)|Monsoons|1. Monsoons in Asia </br> 2. [Pandas review](./200227_pandas_review) </br> 3. Exit ticket ||
 |March 3, 2020 (Tuesday)|Pandas review| 1.[Pandas review](./200227_pandas_review) </br> 2. Exit ticket | |
 |March 5, 2020 (Thursday)|Coral core data|1. Accessing our coral core data </br> 2. [Pandas review](./200227_pandas_review) </br> 3. Exit ticket |Cheers and challenges: Ling|
+|March 10, 2020 (Tuesday)| | |
+|March 12, 2020 (Thursday)| |Cheers and challenges: Darcie|
+|March 17, 2020 (Tuesday)| | | |
+|March 19, 2020 (Thursday)| |Cheers and challenges: Mia|
+|March 24, 2020 (Tuesday)| | | |
+|March 26, 2020 (Thursday)| |Cheers and challenges: Natalie|
 
