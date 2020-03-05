@@ -44,14 +44,14 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |January 14, 2020 (Tuesday)| El Nino and La Nina|1. El Nino Southern Oscillation </br> 2. [Plot annual SST](./scripts) </br> 3. Exit ticket | |
 |January 16, 2020 (Thursday)|Long-term averages| 1. [Plot annual SST](./scripts) </br> 2. Averaging 3D data </br> 3. Exit ticket | Cheers and Challenges: Mia|
 |January 21, 2020 (Tuesday)| Presentation planning| 1. [Plan out presentation outline](./presentations.md) </br> 2. [Averaging 3D data](./200116_3D_mean) </br> 3. Exit ticket| |
-|January 23, 2020 (Thursday)| Presentation planning|1. [Finish presentation](./presentations.md) </br> 2. Exit ticket | Cheers and Challenges: Natalie |
+|January 23, 2020 (Thursday)| Presentation planning|1. [Finish presentation](./presentations.md) </br> 2. Exit ticket | |
 |January 28, 2020 (Tuesday)| Guest speaker| | |
 |January 30, 2020 (Thursday)| Mid-term presentations| | |
-|February 4, 2020 (Tuesday)| | | |
-|February 6, 2020 (Thursday)| | | Cheers and challenges: Ling|
-|February 11, 2020 (Tuesday)| Meet Ross!| | |
-|February 13, 2020 (Thursday)| | | Cheers and challenges: Darcie |
+|February 4, 2020 (Tuesday)| Salinity|1. Why is the ocean salty? </br> 2. Plot annual SST </br> 3. Exit ticket| |
+|February 6, 2020 (Thursday)|Complete El Nino project |1. Plot annual SST </br> 2. Hydrothermal vents (+ paleoclimate) </br> 3. Exit ticket | Cheers and challenges: Natalie|
+|February 11, 2020 (Tuesday)| Meet Ross!|1. Isotope analysis of corals </br> 2. Exit ticket | |
+|February 13, 2020 (Thursday)|Tour of South- East Asia Halls | |[Climate and the demise of Angkor](https://www.ldeo.columbia.edu/news-events/did-climate-influence-angkors-collapse)|
 |February 17, 2020 - February 21, 2020| :snowflake: Midwinter Recess :snowflake:| | | |
 |February 25, 2020 (Tuesday)| Guest speaker| | |
-|February 27, 2020 (Thursday)| | |Cheers and challenges: Natalie|
+|February 27, 2020 (Thursday)|Monsoons|1. Monsoons in Asia </br> 2. [Pandas review](./200227_pandas_review) </br> 3. Exit ticket |Cheers and challenges: Ling|
 
