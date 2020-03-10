@@ -57,7 +57,7 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |February 27, 2020 (Thursday)|Monsoons|1. Monsoons in Asia </br> 2. [Pandas review](./200227_pandas_review) </br> 3. Exit ticket ||
 |March 3, 2020 (Tuesday)|Pandas review| 1.[Pandas review](./200227_pandas_review) </br> 2. Exit ticket | |
 |March 5, 2020 (Thursday)|Coral core data|1. Accessing our coral core data </br> 2. [Pandas review](./200227_pandas_review) </br> 3. Exit ticket |Cheers and challenges: Ling|
-|March 10, 2020 (Tuesday)| | |
+|March 10, 2020 (Tuesday)| Delimited text files|1. [Reading in .txt files](./200310_reading_txt_files) </br> 2. Exit ticket | |
 |March 12, 2020 (Thursday)| |Cheers and challenges: Darcie|
 |March 17, 2020 (Tuesday)| | | |
 |March 19, 2020 (Thursday)| |Cheers and challenges: Mia|
