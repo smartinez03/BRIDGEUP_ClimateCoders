@@ -1,0 +1,168 @@
+{
+  "xmlId" : "68230",
+  "NOAAStudyId" : "27650",
+  "studyName" : "Vietnam Coral Radiocarbon Data from 1571-1950 CE",
+  "doi" : null,
+  "dataPublisher" : "NOAA",
+  "contactInfo" : {
+    "type" : "CONTACT INFORMATION",
+    "shortName" : "DOC/NOAA/NESDIS/NCEI",
+    "longName" : "National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce ",
+    "address" : "325 Broadway, E/NE31",
+    "city" : "Boulder",
+    "state" : "CO",
+    "postalCode" : "80305-3328",
+    "country" : "USA",
+    "dataCenterUrl" : "https://www.ncdc.noaa.gov/data-access/paleoclimatology-data",
+    "email" : "paleo@noaa.gov",
+    "phone" : "303-497-6280",
+    "fax" : "303-497-6513",
+    "constraints" : "Please cite original publication, online resource, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, title, online resource, and date accessed. The appearance of external links associated with a dataset does not constitute endorsement by the Department of Commerce/National Oceanic and Atmospheric Administration of external Web sites or the information, products or services contained therein. For other than authorized activities, the Department of Commerce/NOAA does not exercise any editorial control over the information you may find at these locations. These links are provided consistent with the stated purpose of this Department of Commerce/NOAA Web site."
+  },
+  "dataType" : "CORALS AND SCLEROSPONGES",
+  "investigators" : "Goodkin, N.F.; Bolton, A.; Hughen, K.A.; Karnauskas, K.B.; Griffin, S.M.; Phan, K.H.; Vo, S.T.; Ong, M.R.; Druffel, E.R.M.",
+  "version" : "1.0",
+  "funding" : [ {
+    "fundingAgency" : "National Research Foundation Singapore",
+    "fundingGrant" : null
+  } ],
+  "studyNotes" : "Provided Keywords: coral, radiocarbon, ocean circulation",
+  "onlineResourceLink" : "https://www.ncdc.noaa.gov/paleo/study/27650",
+  "difMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/dif/xml/noaa-coral-27650.xml",
+  "isoMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/iso/xml/noaa-coral-27650.xml",
+  "originalSource" : null,
+  "dataTypeInformation" : "https://www.ncdc.noaa.gov/data-access/paleoclimatology-data/datasets/coral-sclerosponge",
+  "studyCode" : null,
+  "scienceKeywords" : null,
+  "reconstruction" : "N",
+  "contributionDate" : "2019-09-16",
+  "entryId" : "noaa-coral-27650",
+  "earliestYearBP" : 379,
+  "mostRecentYearBP" : 0,
+  "earliestYearCE" : 1571,
+  "mostRecentYearCE" : 1950,
+  "publication" : [ {
+    "author" : {
+      "name" : "Goodkin, N.F., Bolton, A., Hughen, K.A., Karnauskas, K.B., Griffin, S., Phan, K.H., Vo, S.T., Ong, M.R., and Druffel, E.R.M."
+    },
+    "pubYear" : 2019,
+    "title" : "East Asian Monsoon Variability Since the Sixteenth Century",
+    "journal" : "Geophysical Research Letters",
+    "volume" : "46",
+    "edition" : null,
+    "issue" : null,
+    "pages" : "4790-4798",
+    "reportNumber" : null,
+    "citation" : "Goodkin, N.F., Bolton, A., Hughen, K.A., Karnauskas, K.B., Griffin, S., Phan, K.H., Vo, S.T., Ong, M.R., and Druffel, E.R.M. 2019. East Asian Monsoon Variability Since the Sixteenth Century. Geophysical Research Letters, 46, 4790-4798. doi: 10.1029/2019GL081939",
+    "type" : "publication",
+    "identifier" : {
+      "type" : "doi",
+      "id" : "10.1029/2019GL081939",
+      "url" : "http://dx.doi.org/10.1029/2019GL081939"
+    },
+    "abstract" : "The East Asian Monsoon (EAM) impacts storms, freshwater availability, wind energy production, coal consumption, and subsequent air quality for billions of people across Asia. Despite its importance, the EAM's long-term behavior is poorly understood. Here we present an annually resolved record of EAM variance from 1584 to 1950 based on radiocarbon content in a coral from the coast of Vietnam. The coral record reveals previously undocumented centennial scale changes in EAM variance during both the summer and winter seasons, with an overall decline from 1600 to the present. Such longterm variations in monsoon variance appear to reflect independent seasonal mechanisms that are a combination of changes in continental temperature, the strength of the Siberian High, and El Niño Southern Oscillation behavior. We conclude that the EAM is an important conduit for propagating climate signals from the tropics to higher latitudes.",
+    "pubRank" : "1"
+  } ],
+  "site" : [ {
+    "NOAASiteId" : "58064",
+    "siteName" : "Hon Tre, Vietnam",
+    "mappable" : "Y",
+    "locationName" : "Continent>Asia>Southeastern Asia>Vietnam",
+    "geo" : {
+      "geoType" : "Feature",
+      "geometry" : {
+        "type" : "POINT",
+        "coordinates" : [ "12.213861", "109.304864" ]
+      },
+      "properties" : {
+        "southernmostLatitude" : "12.213861",
+        "northernmostLatitude" : "12.213861",
+        "westernmostLongitude" : "109.304864",
+        "easternmostLongitude" : "109.304864",
+        "minElevationMeters" : null,
+        "maxElevationMeters" : null
+      }
+    },
+    "paleoData" : [ {
+      "dataTableName" : "Tho Nhat D14C Goodkin2019",
+      "NOAADataTableId" : "40040",
+      "earliestYear" : 1571,
+      "mostRecentYear" : 1950,
+      "timeUnit" : "AD",
+      "earliestYearBP" : 379,
+      "mostRecentYearBP" : 0,
+      "earliestYearCE" : 1571,
+      "mostRecentYearCE" : 1950,
+      "coreLengthMeters" : null,
+      "dataTableNotes" : null,
+      "species" : [ ],
+      "dataFile" : [ {
+        "fileUrl" : "https://www1.ncdc.noaa.gov/pub/data/paleo/coral/south_china_sea/goodkin2019/goodkin2019-radiocarb.txt",
+        "urlDescription" : "NOAA Template File",
+        "linkText" : "Hon Tre Radiocarbon Data",
+        "variables" : [ {
+          "cvDataType" : "CORALS AND SCLEROSPONGES",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : "age_CE"
+        }, {
+          "cvDataType" : "CORALS AND SCLEROSPONGES",
+          "cvWhat" : "chemical composition>isotope>isotope ratio>Delta 14C",
+          "cvMaterial" : "biological material>organism>coral>Porites sp.",
+          "cvError" : null,
+          "cvUnit" : "concentration unit>parts per notation unit>parts per thousand>per mil",
+          "cvSeasonality" : "annual",
+          "cvDetail" : null,
+          "cvMethod" : "laboratory method>spectroscopy>mass spectrometry>accelerator mass spectrometry",
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : "d14-C-annual"
+        }, {
+          "cvDataType" : "CORALS AND SCLEROSPONGES",
+          "cvWhat" : "chemical composition>isotope>isotope ratio>Delta 14C",
+          "cvMaterial" : "biological material>organism>coral>Porites sp.",
+          "cvError" : null,
+          "cvUnit" : "concentration unit>parts per notation unit>parts per thousand>per mil",
+          "cvSeasonality" : "annual",
+          "cvDetail" : "anomalized",
+          "cvMethod" : "laboratory method>spectroscopy>mass spectrometry>accelerator mass spectrometry",
+          "cvAdditionalInfo" : "Anomaly from 100 year smooth",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "d14-C-ocean"
+        }, {
+          "cvDataType" : "CORALS AND SCLEROSPONGES",
+          "cvWhat" : "chemical composition>isotope>isotope ratio>Delta 14C",
+          "cvMaterial" : "biological material>organism>coral>Porites sp.",
+          "cvError" : null,
+          "cvUnit" : "concentration unit>parts per notation unit>parts per thousand>per mil",
+          "cvSeasonality" : null,
+          "cvDetail" : "detrended|filtered",
+          "cvMethod" : "laboratory method>spectroscopy>mass spectrometry>accelerator mass spectrometry",
+          "cvAdditionalInfo" : "annual coral Delta 14C detrended by the coral 100-year smooth and filtered to frequencies of correlation to East Asian Summer monsoon wind stress (4.2-5 years); Cross Spectral Analysis to identify seasonal frequency, then band-pass filtered",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "summer_monsoon_index"
+        }, {
+          "cvDataType" : "CORALS AND SCLEROSPONGES",
+          "cvWhat" : "chemical composition>isotope>isotope ratio>Delta 14C",
+          "cvMaterial" : "biological material>organism>coral>Porites sp.",
+          "cvError" : null,
+          "cvUnit" : "concentration unit>parts per notation unit>parts per thousand>per mil",
+          "cvSeasonality" : null,
+          "cvDetail" : "detrended|filtered",
+          "cvMethod" : "laboratory method>spectroscopy>mass spectrometry>accelerator mass spectrometry",
+          "cvAdditionalInfo" : "annual coral Delta 14C detrended by the coral 100-year smooth and filtered to frequencies of correlation to East Asian Winter Monsoon frequencies (2.3-2.5 years and 8-80 years); Cross Spectral Analysis to identify seasonal frequency, then band-pass filtered",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "winter_monsoon_index"
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>corals and sclerosponges>carbon isotopes" ]
+      } ]
+    } ]
+  } ]
+}

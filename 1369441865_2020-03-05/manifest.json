@@ -1,0 +1,37 @@
+{
+  "files" : [ {
+    "path" : "data/pub/data/paleo/coral/west_pacific/ramos2019/ramos2019-month.txt",
+    "filesize" : "44725",
+    "MD5" : "63ffba66c6efd76b0560e7de6eb8ae6b"
+  }, {
+    "path" : "data/pub/data/paleo/coral/west_pacific/ramos2019/ramos2019-season.txt",
+    "filesize" : "6144",
+    "MD5" : "30241fd6f618c99bb81ab332e783f10d"
+  } ],
+  "params" : {
+    "searchText" : "palavi, philippines",
+    "dataPublisher" : "NOAA",
+    "xmlId" : "67014"
+  },
+  "matches" : [ {
+    "metadataFile" : "metadata/noaa-coral-27271.json",
+    "studyName" : "Palaui Island, Philippines Porites lobata Sr/Ca and d18O data from 1880 to 2012",
+    "sites" : [ {
+      "siteName" : "Palaui Island",
+      "files" : [ {
+        "fileName" : "Palaui Island Monthly Sr/Ca and d18O Data",
+        "description" : "NOAA Template File",
+        "URL" : "https://www1.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/ramos2019/ramos2019-month.txt"
+      }, {
+        "fileName" : "Palaui Island Seasonal d18O Data",
+        "description" : "NOAA Template File",
+        "URL" : "https://www1.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/ramos2019/ramos2019-season.txt"
+      } ]
+    } ],
+    "bundle" : "Y"
+  } ],
+  "info" : {
+    "bundleCreateDate" : "2020-03-05T23:16:45.312Z",
+    "details" : "See the included README.txt for details of the sections in this manifest."
+  }
+}

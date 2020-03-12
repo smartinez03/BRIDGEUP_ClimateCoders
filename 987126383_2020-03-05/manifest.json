@@ -1,0 +1,29 @@
+{
+  "files" : [ {
+    "path" : "data/pub/data/paleo/coral/south_china_sea/goodkin2019/goodkin2019-radiocarb.txt",
+    "filesize" : "19850",
+    "MD5" : "53f2690a73dd28d3469266b90b5c20ce"
+  } ],
+  "params" : {
+    "searchText" : "hon tre, vietnam",
+    "dataPublisher" : "NOAA",
+    "xmlId" : "68230"
+  },
+  "matches" : [ {
+    "metadataFile" : "metadata/noaa-coral-27650.json",
+    "studyName" : "Vietnam Coral Radiocarbon Data from 1571-1950 CE",
+    "sites" : [ {
+      "siteName" : "Hon Tre, Vietnam",
+      "files" : [ {
+        "fileName" : "Hon Tre Radiocarbon Data",
+        "description" : "NOAA Template File",
+        "URL" : "https://www1.ncdc.noaa.gov/pub/data/paleo/coral/south_china_sea/goodkin2019/goodkin2019-radiocarb.txt"
+      } ]
+    } ],
+    "bundle" : "Y"
+  } ],
+  "info" : {
+    "bundleCreateDate" : "2020-03-05T23:14:43.951Z",
+    "details" : "See the included README.txt for details of the sections in this manifest."
+  }
+}
