@@ -64,3 +64,4 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |March 24, 2020 (Tuesday)|Converting time formats| 1. [Converting time formats](./200319_convert_time_format) </br> 2. Exit ticket ||
 |March 26, 2020 (Thursday)|Converting time formats| 1. NumPy practice </br> 2. [Converting time formats](./200319_convert_time_format) </br> 3. Exit ticket ||
 |March 31, 2020 (Tuesday)|Introduction to machine learning| 1. What is machine learning and AI? </br> 2. [Converting time formats](./200319_convert_time_format) </br> 3. Exit ticket ||
+|April 02, 2020 (Thursday)|Machine learning on Python| 1. [Converting time formats](./200319_convert_time_format) </br> 2. [Linear regression on Python](./200402_machine_learning_python) </br> 3. Exit ticket ||
